@@ -1,6 +1,6 @@
 {
   "name": "nested-diff",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Calculating deep difference for JavaScript objects",
   "repository": {
     "type": "git",
