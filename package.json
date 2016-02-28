@@ -1,0 +1,22 @@
+{
+  "name": "nested-diff",
+  "version": "0.0.0",
+  "description": "Calculating deep difference for JavaScript objects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d6u/nested-diff.git"
+  },
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d6u/nested-diff/issues"
+  },
+  "homepage": "https://github.com/d6u/nested-diff#readme",
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
